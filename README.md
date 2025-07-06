@@ -40,3 +40,5 @@ Used for data cleaning, modeling, analysis, and dashboard creation.
 - Revealed gender-based disparities in pay and representatio
 - Quantified total bonus allocation by department and region
 - Delivered clear, actionable visuals for HR leadership and compliance reporting
+
+###Analysis
