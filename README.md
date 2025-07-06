@@ -3,10 +3,7 @@
 ## Project Topic: Palmoria Group HR Analysis
 
 ### Project Overview
-An HR analytics project developed using Power BI to explore employee distribution, pay structure, and bonus policies at Palmoria Group. This work was completed as part of a Data analysis capstone project.
-
-### Project Objectives
-
+An HR analytics project developed using Power BI to explore employee distribution, pay structure, and bonus policies at Palmoria Group. This work was completed as part of a Data analysis capstone project, which include:
 - Understand gender and regional distribution across the organization
 - Investigate salary structure and potential gender pay gaps
 - Identify employees earning below the minimum salary threshold of $90,000
