@@ -1,14 +1,12 @@
 # My-Power-Bi-Project
 
-Palmoria Group HR Analysis
+## Project Topic: Palmoria Group HR Analysis
 
+### Project Overview
 An HR analytics project developed using Power BI to explore employee distribution, pay structure, and bonus policies at Palmoria Group. This work was completed as part of a Data analysis capstone project.
 
-
- Data Sources
-
+### Data Sources
 This project uses two datasets:
-
 Palmoria Group emp-data.csv: Contains employee information including name, gender, department, salary, location, and performance rating.
 
 Palmoria Group Bonus Rules.xlsx: An Excel matrix outlining bonus percentages for each department based on performance rating levels (e.g., Poor, Average, Good).
